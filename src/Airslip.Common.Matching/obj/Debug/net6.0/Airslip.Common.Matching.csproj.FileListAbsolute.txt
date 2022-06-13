@@ -1,0 +1,12 @@
+C:\Projects\common\src\Airslip.Common.Matching\bin\Debug\net6.0\Airslip.Common.Matching.deps.json
+C:\Projects\common\src\Airslip.Common.Matching\bin\Debug\net6.0\Airslip.Common.Matching.dll
+C:\Projects\common\src\Airslip.Common.Matching\bin\Debug\net6.0\Airslip.Common.Matching.pdb
+C:\Projects\common\src\Airslip.Common.Matching\obj\Debug\net6.0\Airslip.Common.Matching.csproj.AssemblyReference.cache
+C:\Projects\common\src\Airslip.Common.Matching\obj\Debug\net6.0\Airslip.Common.Matching.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\common\src\Airslip.Common.Matching\obj\Debug\net6.0\Airslip.Common.Matching.AssemblyInfoInputs.cache
+C:\Projects\common\src\Airslip.Common.Matching\obj\Debug\net6.0\Airslip.Common.Matching.AssemblyInfo.cs
+C:\Projects\common\src\Airslip.Common.Matching\obj\Debug\net6.0\Airslip.Common.Matching.csproj.CoreCompileInputs.cache
+C:\Projects\common\src\Airslip.Common.Matching\obj\Debug\net6.0\Airslip.Common.Matching.dll
+C:\Projects\common\src\Airslip.Common.Matching\obj\Debug\net6.0\refint\Airslip.Common.Matching.dll
+C:\Projects\common\src\Airslip.Common.Matching\obj\Debug\net6.0\Airslip.Common.Matching.pdb
+C:\Projects\common\src\Airslip.Common.Matching\obj\Debug\net6.0\ref\Airslip.Common.Matching.dll

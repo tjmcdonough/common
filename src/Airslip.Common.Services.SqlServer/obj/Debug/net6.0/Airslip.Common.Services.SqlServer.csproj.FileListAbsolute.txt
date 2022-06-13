@@ -1,0 +1,12 @@
+C:\Projects\common\src\Airslip.Common.Services.SqlServer\bin\Debug\net6.0\Airslip.Common.Services.SqlServer.deps.json
+C:\Projects\common\src\Airslip.Common.Services.SqlServer\bin\Debug\net6.0\Airslip.Common.Services.SqlServer.dll
+C:\Projects\common\src\Airslip.Common.Services.SqlServer\bin\Debug\net6.0\Airslip.Common.Services.SqlServer.pdb
+C:\Projects\common\src\Airslip.Common.Services.SqlServer\obj\Debug\net6.0\Airslip.Common.Services.SqlServer.csproj.AssemblyReference.cache
+C:\Projects\common\src\Airslip.Common.Services.SqlServer\obj\Debug\net6.0\Airslip.Common.Services.SqlServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\common\src\Airslip.Common.Services.SqlServer\obj\Debug\net6.0\Airslip.Common.Services.SqlServer.AssemblyInfoInputs.cache
+C:\Projects\common\src\Airslip.Common.Services.SqlServer\obj\Debug\net6.0\Airslip.Common.Services.SqlServer.AssemblyInfo.cs
+C:\Projects\common\src\Airslip.Common.Services.SqlServer\obj\Debug\net6.0\Airslip.Common.Services.SqlServer.csproj.CoreCompileInputs.cache
+C:\Projects\common\src\Airslip.Common.Services.SqlServer\obj\Debug\net6.0\Airslip.Common.Services.SqlServer.dll
+C:\Projects\common\src\Airslip.Common.Services.SqlServer\obj\Debug\net6.0\refint\Airslip.Common.Services.SqlServer.dll
+C:\Projects\common\src\Airslip.Common.Services.SqlServer\obj\Debug\net6.0\Airslip.Common.Services.SqlServer.pdb
+C:\Projects\common\src\Airslip.Common.Services.SqlServer\obj\Debug\net6.0\ref\Airslip.Common.Services.SqlServer.dll

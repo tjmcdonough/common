@@ -1,0 +1,40 @@
+name: ProtoBuf - Pack and Publish
+
+on: 
+  workflow_dispatch:
+    inputs:
+      packageVersion:
+        description: 'The resultant version for this package'
+        required: true
+
+jobs:
+  pack-and-publish:
+    runs-on: ubuntu-latest
+    env:
+      DOTNET_CORE_VERSION: 6.0.x
+      BUILD_PATH: ./src/Airslip.Common.Services.ProtoBuf/Airslip.Common.Services.ProtoBuf.csproj
+    steps:
+    - uses: actions/checkout@v2
+      with:
+        fetch-depth: 0
+    - name: Setup .NET Core SDK
+      uses: actions/setup-dotnet@v1.7.2
+      with:
+        dotnet-version: ${{ env.DOTNET_CORE_VERSION }}
+
+    - name: Add nuget feed
+      run: dotnet nuget add source --username ${{ secrets.PACKAGE_USER }} --password ${{ secrets.PACKAGE_TOKEN }} --store-password-in-clear-text --name github "https://nuget.pkg.github.com/airslip-ltd/index.json"
+
+    - name: Install dependencies
+      run: dotnet restore ${{ env.BUILD_PATH }}
+
+    - name: Build
+      run: dotnet build ${{ env.BUILD_PATH }} --configuration Release 
+
+    - name: Pack
+      run: dotnet pack ${{ env.BUILD_PATH }} --configuration Release --no-restore --no-build -p:Version=${{ github.event.inputs.packageVersion }} --output nupkgs
+
+    - name: Push
+      run: dotnet nuget push nupkgs/*.nupkg --source https://nuget.pkg.github.com/airslip-ltd/index.json --api-key ${GITHUB_TOKEN}
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

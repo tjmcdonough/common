@@ -1,0 +1,30 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+	<Import Project="..\common.props" />
+
+	<PropertyGroup>
+		<PackageId>Airslip.Common.Functions</PackageId>
+		<Company>Airslip</Company>
+		<Authors>Airslip</Authors>
+		<PackageProjectUrl>https://github.com/airslip-ltd/common</PackageProjectUrl>
+		<RepositoryUrl>https://github.com/airslip-ltd/common</RepositoryUrl>
+		<PackageLicenseExpression>MIT</PackageLicenseExpression>
+		<PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+	</PropertyGroup>
+
+    <ItemGroup>
+		<PackageReference Include="Microsoft.Azure.Functions.Worker.Core" Version="1.4.0" />
+		<PackageReference Include="Microsoft.Extensions.Configuration.Abstractions" Version="6.0.0" />
+		<PackageReference Include="Microsoft.Extensions.Configuration.CommandLine" Version="6.0.0" />
+		<PackageReference Include="Microsoft.Extensions.Configuration.EnvironmentVariables" Version="6.0.0" />
+		<PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="6.0.0" />
+		<PackageReference Include="Serilog" Version="2.10.0" />
+    </ItemGroup>
+	
+	<ItemGroup>
+		<PackageReference Include="Airslip.Common.Auth.Functions" Version="6.0.4" />
+		<PackageReference Include="Airslip.Common.Types" Version="6.2.18" />
+		<PackageReference Include="Airslip.Common.Repository.Types" Version="6.1.8" />
+	</ItemGroup>
+
+</Project>

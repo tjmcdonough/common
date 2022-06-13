@@ -1,0 +1,12 @@
+{
+    "EncryptionSettings": {
+        "PassPhraseToken": "ILovePaperlessReceipts"
+    },
+    "TokenEncryptionSettings": {
+        "UseEncryption": true,
+        "Passphrase": "Hello"
+    },
+    "EnvironmentSettings": {
+        "EnvironmentName": "Development"
+    }
+}

@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "M2VGGqWi1ttV3L5Td5xmc7GLMw0I0nGimbwtk1BJW0ZzM45NhBjplj/xo9dkzjZOwWSuFQEXCzhnV3I3k5lb6A==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\common\\src\\Airslip.Common.ImageGeneration\\Airslip.Common.ImageGeneration.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TomMcDonough\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\TomMcDonough\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\TomMcDonough\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\TomMcDonough\\.nuget\\packages\\qrcoder\\1.4.1\\qrcoder.1.4.1.nupkg.sha512",
+    "C:\\Users\\TomMcDonough\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

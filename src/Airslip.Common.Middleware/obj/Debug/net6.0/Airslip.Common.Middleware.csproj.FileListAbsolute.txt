@@ -1,0 +1,12 @@
+C:\Projects\common\src\Airslip.Common.Middleware\bin\Debug\net6.0\Airslip.Common.Middleware.deps.json
+C:\Projects\common\src\Airslip.Common.Middleware\bin\Debug\net6.0\Airslip.Common.Middleware.dll
+C:\Projects\common\src\Airslip.Common.Middleware\bin\Debug\net6.0\Airslip.Common.Middleware.pdb
+C:\Projects\common\src\Airslip.Common.Middleware\obj\Debug\net6.0\Airslip.Common.Middleware.csproj.AssemblyReference.cache
+C:\Projects\common\src\Airslip.Common.Middleware\obj\Debug\net6.0\Airslip.Common.Middleware.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\common\src\Airslip.Common.Middleware\obj\Debug\net6.0\Airslip.Common.Middleware.AssemblyInfoInputs.cache
+C:\Projects\common\src\Airslip.Common.Middleware\obj\Debug\net6.0\Airslip.Common.Middleware.AssemblyInfo.cs
+C:\Projects\common\src\Airslip.Common.Middleware\obj\Debug\net6.0\Airslip.Common.Middleware.csproj.CoreCompileInputs.cache
+C:\Projects\common\src\Airslip.Common.Middleware\obj\Debug\net6.0\Airslip.Common.Middleware.dll
+C:\Projects\common\src\Airslip.Common.Middleware\obj\Debug\net6.0\refint\Airslip.Common.Middleware.dll
+C:\Projects\common\src\Airslip.Common.Middleware\obj\Debug\net6.0\Airslip.Common.Middleware.pdb
+C:\Projects\common\src\Airslip.Common.Middleware\obj\Debug\net6.0\ref\Airslip.Common.Middleware.dll

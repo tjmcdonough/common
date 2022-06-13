@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "/GB3sJK6HN3uQFHgkh6jqEG+HPGecPrdbj5dF++j12uxhyEH5qX/yL7lA0BqfPMYgwnW7jwE9U+BoAeQPBOcBg==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\common\\src\\Airslip.Common.Services.Handoff\\Airslip.Common.Services.Handoff.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TomMcDonough\\.nuget\\packages\\airslip.common.types\\6.2.18\\airslip.common.types.6.2.18.nupkg.sha512",
+    "C:\\Users\\TomMcDonough\\.nuget\\packages\\jetbrains.annotations\\2021.2.0\\jetbrains.annotations.2021.2.0.nupkg.sha512",
+    "C:\\Users\\TomMcDonough\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\TomMcDonough\\.nuget\\packages\\serilog\\2.10.0\\serilog.2.10.0.nupkg.sha512"
+  ],
+  "logs": []
+}

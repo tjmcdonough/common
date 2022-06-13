@@ -1,0 +1,12 @@
+C:\Projects\common\src\Airslip.Common.Testing\bin\Debug\net6.0\Airslip.Common.Testing.deps.json
+C:\Projects\common\src\Airslip.Common.Testing\bin\Debug\net6.0\Airslip.Common.Testing.dll
+C:\Projects\common\src\Airslip.Common.Testing\bin\Debug\net6.0\Airslip.Common.Testing.pdb
+C:\Projects\common\src\Airslip.Common.Testing\obj\Debug\net6.0\Airslip.Common.Testing.csproj.AssemblyReference.cache
+C:\Projects\common\src\Airslip.Common.Testing\obj\Debug\net6.0\Airslip.Common.Testing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\common\src\Airslip.Common.Testing\obj\Debug\net6.0\Airslip.Common.Testing.AssemblyInfoInputs.cache
+C:\Projects\common\src\Airslip.Common.Testing\obj\Debug\net6.0\Airslip.Common.Testing.AssemblyInfo.cs
+C:\Projects\common\src\Airslip.Common.Testing\obj\Debug\net6.0\Airslip.Common.Testing.csproj.CoreCompileInputs.cache
+C:\Projects\common\src\Airslip.Common.Testing\obj\Debug\net6.0\Airslip.Common.Testing.dll
+C:\Projects\common\src\Airslip.Common.Testing\obj\Debug\net6.0\refint\Airslip.Common.Testing.dll
+C:\Projects\common\src\Airslip.Common.Testing\obj\Debug\net6.0\Airslip.Common.Testing.pdb
+C:\Projects\common\src\Airslip.Common.Testing\obj\Debug\net6.0\ref\Airslip.Common.Testing.dll

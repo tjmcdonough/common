@@ -1,0 +1,12 @@
+﻿<Project>
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <NetVersion>6.0.*</NetVersion>
+        <Nullable>enable</Nullable>
+        <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+        <CopyLocalLockFileAssemblies>false</CopyLocalLockFileAssemblies>
+        <LangVersion>latest</LangVersion>
+    </PropertyGroup>
+
+</Project>

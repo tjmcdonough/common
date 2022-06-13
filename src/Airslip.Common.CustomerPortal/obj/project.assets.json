@@ -1,0 +1,160 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Airslip.Common.Repository.Types/6.1.8": {
+        "type": "package",
+        "dependencies": {
+          "Airslip.Common.Types": "6.2.18"
+        },
+        "compile": {
+          "lib/net6.0/Airslip.Common.Repository.Types.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/Airslip.Common.Repository.Types.dll": {}
+        }
+      },
+      "Airslip.Common.Types/6.2.18": {
+        "type": "package",
+        "dependencies": {
+          "JetBrains.Annotations": "2021.2.0"
+        },
+        "compile": {
+          "lib/net6.0/Airslip.Common.Types.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/Airslip.Common.Types.dll": {}
+        }
+      },
+      "JetBrains.Annotations/2021.2.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/JetBrains.Annotations.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/JetBrains.Annotations.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Airslip.Common.Repository.Types/6.1.8": {
+      "sha512": "uPD45aLIWDRblDOb3qxL7Cq5uGUjQwC0G2BrVnA0Ni469jslNr2dqXFXcjkrzJAYhkwObQQra/DzLfs7sdsf1g==",
+      "type": "package",
+      "path": "airslip.common.repository.types/6.1.8",
+      "files": [
+        ".nupkg.metadata",
+        "airslip.common.repository.types.6.1.8.nupkg.sha512",
+        "airslip.common.repository.types.nuspec",
+        "lib/net6.0/Airslip.Common.Repository.Types.dll"
+      ]
+    },
+    "Airslip.Common.Types/6.2.18": {
+      "sha512": "iLk9CUCs2JJb5uP4WA/Yua6YwEX8aFmr2/7LZK/NHu55zSBrcm6yAl/CjBqAnvs8LiA0VEpeoMWOx9+rSTnDtQ==",
+      "type": "package",
+      "path": "airslip.common.types/6.2.18",
+      "files": [
+        ".nupkg.metadata",
+        "airslip.common.types.6.2.18.nupkg.sha512",
+        "airslip.common.types.nuspec",
+        "lib/net6.0/Airslip.Common.Types.dll"
+      ]
+    },
+    "JetBrains.Annotations/2021.2.0": {
+      "sha512": "kKSyoVfndMriKHLfYGmr0uzQuI4jcc3TKGyww7buJFCYeHb/X0kodYBPL7n9454q7v6ASiRmDgpPGaDGerg/Hg==",
+      "type": "package",
+      "path": "jetbrains.annotations/2021.2.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "icon.png",
+        "jetbrains.annotations.2021.2.0.nupkg.sha512",
+        "jetbrains.annotations.nuspec",
+        "lib/net20/JetBrains.Annotations.dll",
+        "lib/net20/JetBrains.Annotations.xml",
+        "lib/netstandard1.0/JetBrains.Annotations.deps.json",
+        "lib/netstandard1.0/JetBrains.Annotations.dll",
+        "lib/netstandard1.0/JetBrains.Annotations.xml",
+        "lib/netstandard2.0/JetBrains.Annotations.deps.json",
+        "lib/netstandard2.0/JetBrains.Annotations.dll",
+        "lib/netstandard2.0/JetBrains.Annotations.xml",
+        "lib/portable40-net40+sl5+win8+wp8+wpa81/JetBrains.Annotations.dll",
+        "lib/portable40-net40+sl5+win8+wp8+wpa81/JetBrains.Annotations.xml"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Airslip.Common.Repository.Types >= 6.1.8",
+      "Airslip.Common.Types >= 6.2.18"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\TomMcDonough\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Projects\\common\\src\\Airslip.Common.CustomerPortal\\Airslip.Common.CustomerPortal.csproj",
+      "projectName": "Airslip.Common.CustomerPortal",
+      "projectPath": "C:\\Projects\\common\\src\\Airslip.Common.CustomerPortal\\Airslip.Common.CustomerPortal.csproj",
+      "packagesPath": "C:\\Users\\TomMcDonough\\.nuget\\packages\\",
+      "outputPath": "C:\\Projects\\common\\src\\Airslip.Common.CustomerPortal\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\TomMcDonough\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://nuget.pkg.github.com/airslip-ltd/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "dependencies": {
+          "Airslip.Common.Repository.Types": {
+            "target": "Package",
+            "version": "[6.1.8, )"
+          },
+          "Airslip.Common.Types": {
+            "target": "Package",
+            "version": "[6.2.18, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "pLhu75OP3q/QJMMDSE2ceqKRJlGOGMBgXUmwywevQnglwSm43ZuB7up/03O4p8cn52zmU+MNmRqMJsc8MqZV0Q==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\common\\src\\Airslip.Common.Metrics\\Airslip.Common.Metrics.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TomMcDonough\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\TomMcDonough\\.nuget\\packages\\microsoft.extensions.configuration.binder\\6.0.0\\microsoft.extensions.configuration.binder.6.0.0.nupkg.sha512",
+    "C:\\Users\\TomMcDonough\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\TomMcDonough\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\TomMcDonough\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\6.0.0\\microsoft.extensions.options.configurationextensions.6.0.0.nupkg.sha512",
+    "C:\\Users\\TomMcDonough\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\TomMcDonough\\.nuget\\packages\\serilog\\2.10.0\\serilog.2.10.0.nupkg.sha512",
+    "C:\\Users\\TomMcDonough\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

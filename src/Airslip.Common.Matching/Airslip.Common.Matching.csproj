@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+	<Import Project="..\common.props" />
+
+	<PropertyGroup>
+		<PackageId>Airslip.Common.Matching</PackageId>
+		<Company>Airslip</Company>
+		<Authors>Airslip</Authors>
+		<PackageProjectUrl>https://github.com/airslip-ltd/common</PackageProjectUrl>
+		<RepositoryUrl>https://github.com/airslip-ltd/common</RepositoryUrl>
+		<PackageLicenseExpression>MIT</PackageLicenseExpression>
+		<PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="Airslip.Common.Repository.Types" Version="6.1.8" />
+		<PackageReference Include="Airslip.Common.Types" Version="6.2.18" />
+		<PackageReference Include="Airslip.Common.MerchantTransactions" Version="6.1.2" />
+		<PackageReference Include="Airslip.Common.Services.Handoff" Version="6.0.2" />
+		<PackageReference Include="JetBrains.Annotations" Version="2021.3.0" />
+	</ItemGroup>
+	
+</Project>

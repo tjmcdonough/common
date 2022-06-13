@@ -1,0 +1,12 @@
+C:\Projects\common\src\Airslip.Common.MerchantTransactions\bin\Debug\net6.0\Airslip.Common.MerchantTransactions.deps.json
+C:\Projects\common\src\Airslip.Common.MerchantTransactions\bin\Debug\net6.0\Airslip.Common.MerchantTransactions.dll
+C:\Projects\common\src\Airslip.Common.MerchantTransactions\bin\Debug\net6.0\Airslip.Common.MerchantTransactions.pdb
+C:\Projects\common\src\Airslip.Common.MerchantTransactions\obj\Debug\net6.0\Airslip.Common.MerchantTransactions.csproj.AssemblyReference.cache
+C:\Projects\common\src\Airslip.Common.MerchantTransactions\obj\Debug\net6.0\Airslip.Common.MerchantTransactions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\common\src\Airslip.Common.MerchantTransactions\obj\Debug\net6.0\Airslip.Common.MerchantTransactions.AssemblyInfoInputs.cache
+C:\Projects\common\src\Airslip.Common.MerchantTransactions\obj\Debug\net6.0\Airslip.Common.MerchantTransactions.AssemblyInfo.cs
+C:\Projects\common\src\Airslip.Common.MerchantTransactions\obj\Debug\net6.0\Airslip.Common.MerchantTransactions.csproj.CoreCompileInputs.cache
+C:\Projects\common\src\Airslip.Common.MerchantTransactions\obj\Debug\net6.0\Airslip.Common.MerchantTransactions.dll
+C:\Projects\common\src\Airslip.Common.MerchantTransactions\obj\Debug\net6.0\refint\Airslip.Common.MerchantTransactions.dll
+C:\Projects\common\src\Airslip.Common.MerchantTransactions\obj\Debug\net6.0\Airslip.Common.MerchantTransactions.pdb
+C:\Projects\common\src\Airslip.Common.MerchantTransactions\obj\Debug\net6.0\ref\Airslip.Common.MerchantTransactions.dll

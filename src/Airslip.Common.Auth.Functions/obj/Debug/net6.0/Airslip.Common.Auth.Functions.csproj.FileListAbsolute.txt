@@ -1,0 +1,12 @@
+C:\Projects\common\src\Airslip.Common.Auth.Functions\bin\Debug\net6.0\Airslip.Common.Auth.Functions.deps.json
+C:\Projects\common\src\Airslip.Common.Auth.Functions\bin\Debug\net6.0\Airslip.Common.Auth.Functions.dll
+C:\Projects\common\src\Airslip.Common.Auth.Functions\bin\Debug\net6.0\Airslip.Common.Auth.Functions.pdb
+C:\Projects\common\src\Airslip.Common.Auth.Functions\obj\Debug\net6.0\Airslip.Common.Auth.Functions.csproj.AssemblyReference.cache
+C:\Projects\common\src\Airslip.Common.Auth.Functions\obj\Debug\net6.0\Airslip.Common.Auth.Functions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\common\src\Airslip.Common.Auth.Functions\obj\Debug\net6.0\Airslip.Common.Auth.Functions.AssemblyInfoInputs.cache
+C:\Projects\common\src\Airslip.Common.Auth.Functions\obj\Debug\net6.0\Airslip.Common.Auth.Functions.AssemblyInfo.cs
+C:\Projects\common\src\Airslip.Common.Auth.Functions\obj\Debug\net6.0\Airslip.Common.Auth.Functions.csproj.CoreCompileInputs.cache
+C:\Projects\common\src\Airslip.Common.Auth.Functions\obj\Debug\net6.0\Airslip.Common.Auth.Functions.dll
+C:\Projects\common\src\Airslip.Common.Auth.Functions\obj\Debug\net6.0\refint\Airslip.Common.Auth.Functions.dll
+C:\Projects\common\src\Airslip.Common.Auth.Functions\obj\Debug\net6.0\Airslip.Common.Auth.Functions.pdb
+C:\Projects\common\src\Airslip.Common.Auth.Functions\obj\Debug\net6.0\ref\Airslip.Common.Auth.Functions.dll

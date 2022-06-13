@@ -1,0 +1,12 @@
+C:\Projects\common\src\Airslip.Common.Services.Handoff\bin\Debug\net6.0\Airslip.Common.Services.Handoff.deps.json
+C:\Projects\common\src\Airslip.Common.Services.Handoff\bin\Debug\net6.0\Airslip.Common.Services.Handoff.dll
+C:\Projects\common\src\Airslip.Common.Services.Handoff\bin\Debug\net6.0\Airslip.Common.Services.Handoff.pdb
+C:\Projects\common\src\Airslip.Common.Services.Handoff\obj\Debug\net6.0\Airslip.Common.Services.Handoff.csproj.AssemblyReference.cache
+C:\Projects\common\src\Airslip.Common.Services.Handoff\obj\Debug\net6.0\Airslip.Common.Services.Handoff.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\common\src\Airslip.Common.Services.Handoff\obj\Debug\net6.0\Airslip.Common.Services.Handoff.AssemblyInfoInputs.cache
+C:\Projects\common\src\Airslip.Common.Services.Handoff\obj\Debug\net6.0\Airslip.Common.Services.Handoff.AssemblyInfo.cs
+C:\Projects\common\src\Airslip.Common.Services.Handoff\obj\Debug\net6.0\Airslip.Common.Services.Handoff.csproj.CoreCompileInputs.cache
+C:\Projects\common\src\Airslip.Common.Services.Handoff\obj\Debug\net6.0\Airslip.Common.Services.Handoff.dll
+C:\Projects\common\src\Airslip.Common.Services.Handoff\obj\Debug\net6.0\refint\Airslip.Common.Services.Handoff.dll
+C:\Projects\common\src\Airslip.Common.Services.Handoff\obj\Debug\net6.0\Airslip.Common.Services.Handoff.pdb
+C:\Projects\common\src\Airslip.Common.Services.Handoff\obj\Debug\net6.0\ref\Airslip.Common.Services.Handoff.dll

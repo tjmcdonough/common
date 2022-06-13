@@ -1,0 +1,12 @@
+C:\Projects\common\src\Airslip.Common.ImageGeneration\bin\Debug\net6.0\Airslip.Common.ImageGeneration.deps.json
+C:\Projects\common\src\Airslip.Common.ImageGeneration\bin\Debug\net6.0\Airslip.Common.ImageGeneration.dll
+C:\Projects\common\src\Airslip.Common.ImageGeneration\bin\Debug\net6.0\Airslip.Common.ImageGeneration.pdb
+C:\Projects\common\src\Airslip.Common.ImageGeneration\obj\Debug\net6.0\Airslip.Common.ImageGeneration.csproj.AssemblyReference.cache
+C:\Projects\common\src\Airslip.Common.ImageGeneration\obj\Debug\net6.0\Airslip.Common.ImageGeneration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\common\src\Airslip.Common.ImageGeneration\obj\Debug\net6.0\Airslip.Common.ImageGeneration.AssemblyInfoInputs.cache
+C:\Projects\common\src\Airslip.Common.ImageGeneration\obj\Debug\net6.0\Airslip.Common.ImageGeneration.AssemblyInfo.cs
+C:\Projects\common\src\Airslip.Common.ImageGeneration\obj\Debug\net6.0\Airslip.Common.ImageGeneration.csproj.CoreCompileInputs.cache
+C:\Projects\common\src\Airslip.Common.ImageGeneration\obj\Debug\net6.0\Airslip.Common.ImageGeneration.dll
+C:\Projects\common\src\Airslip.Common.ImageGeneration\obj\Debug\net6.0\refint\Airslip.Common.ImageGeneration.dll
+C:\Projects\common\src\Airslip.Common.ImageGeneration\obj\Debug\net6.0\Airslip.Common.ImageGeneration.pdb
+C:\Projects\common\src\Airslip.Common.ImageGeneration\obj\Debug\net6.0\ref\Airslip.Common.ImageGeneration.dll

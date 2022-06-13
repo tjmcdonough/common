@@ -1,0 +1,12 @@
+C:\Projects\common\src\Airslip.Integrations.Banking.Types\bin\Debug\net6.0\Airslip.Integrations.Banking.Types.deps.json
+C:\Projects\common\src\Airslip.Integrations.Banking.Types\bin\Debug\net6.0\Airslip.Integrations.Banking.Types.dll
+C:\Projects\common\src\Airslip.Integrations.Banking.Types\bin\Debug\net6.0\Airslip.Integrations.Banking.Types.pdb
+C:\Projects\common\src\Airslip.Integrations.Banking.Types\obj\Debug\net6.0\Airslip.Integrations.Banking.Types.csproj.AssemblyReference.cache
+C:\Projects\common\src\Airslip.Integrations.Banking.Types\obj\Debug\net6.0\Airslip.Integrations.Banking.Types.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\common\src\Airslip.Integrations.Banking.Types\obj\Debug\net6.0\Airslip.Integrations.Banking.Types.AssemblyInfoInputs.cache
+C:\Projects\common\src\Airslip.Integrations.Banking.Types\obj\Debug\net6.0\Airslip.Integrations.Banking.Types.AssemblyInfo.cs
+C:\Projects\common\src\Airslip.Integrations.Banking.Types\obj\Debug\net6.0\Airslip.Integrations.Banking.Types.csproj.CoreCompileInputs.cache
+C:\Projects\common\src\Airslip.Integrations.Banking.Types\obj\Debug\net6.0\Airslip.Integrations.Banking.Types.dll
+C:\Projects\common\src\Airslip.Integrations.Banking.Types\obj\Debug\net6.0\refint\Airslip.Integrations.Banking.Types.dll
+C:\Projects\common\src\Airslip.Integrations.Banking.Types\obj\Debug\net6.0\Airslip.Integrations.Banking.Types.pdb
+C:\Projects\common\src\Airslip.Integrations.Banking.Types\obj\Debug\net6.0\ref\Airslip.Integrations.Banking.Types.dll

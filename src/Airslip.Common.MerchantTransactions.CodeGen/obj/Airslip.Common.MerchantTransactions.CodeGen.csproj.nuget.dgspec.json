@@ -1,0 +1,85 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Projects\\common\\src\\Airslip.Common.MerchantTransactions.CodeGen\\Airslip.Common.MerchantTransactions.CodeGen.csproj": {}
+  },
+  "projects": {
+    "C:\\Projects\\common\\src\\Airslip.Common.MerchantTransactions.CodeGen\\Airslip.Common.MerchantTransactions.CodeGen.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\common\\src\\Airslip.Common.MerchantTransactions.CodeGen\\Airslip.Common.MerchantTransactions.CodeGen.csproj",
+        "projectName": "Airslip.Common.MerchantTransactions.CodeGen",
+        "projectPath": "C:\\Projects\\common\\src\\Airslip.Common.MerchantTransactions.CodeGen\\Airslip.Common.MerchantTransactions.CodeGen.csproj",
+        "packagesPath": "C:\\Users\\TomMcDonough\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\common\\src\\Airslip.Common.MerchantTransactions.CodeGen\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\TomMcDonough\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.pkg.github.com/airslip-ltd/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Airslip.Common.Testing": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "NSwag.AspNetCore": {
+              "target": "Package",
+              "version": "[13.15.5, )"
+            },
+            "NSwag.CodeGeneration.CSharp": {
+              "target": "Package",
+              "version": "[13.15.5, )"
+            },
+            "NSwag.Core": {
+              "target": "Package",
+              "version": "[13.15.5, )"
+            },
+            "NSwag.Generation.AspNetCore": {
+              "target": "Package",
+              "version": "[13.15.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

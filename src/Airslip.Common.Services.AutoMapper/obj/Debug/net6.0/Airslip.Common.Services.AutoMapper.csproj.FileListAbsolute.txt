@@ -1,0 +1,12 @@
+C:\Projects\common\src\Airslip.Common.Services.AutoMapper\bin\Debug\net6.0\Airslip.Common.Services.AutoMapper.deps.json
+C:\Projects\common\src\Airslip.Common.Services.AutoMapper\bin\Debug\net6.0\Airslip.Common.Services.AutoMapper.dll
+C:\Projects\common\src\Airslip.Common.Services.AutoMapper\bin\Debug\net6.0\Airslip.Common.Services.AutoMapper.pdb
+C:\Projects\common\src\Airslip.Common.Services.AutoMapper\obj\Debug\net6.0\Airslip.Common.Services.AutoMapper.csproj.AssemblyReference.cache
+C:\Projects\common\src\Airslip.Common.Services.AutoMapper\obj\Debug\net6.0\Airslip.Common.Services.AutoMapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\common\src\Airslip.Common.Services.AutoMapper\obj\Debug\net6.0\Airslip.Common.Services.AutoMapper.AssemblyInfoInputs.cache
+C:\Projects\common\src\Airslip.Common.Services.AutoMapper\obj\Debug\net6.0\Airslip.Common.Services.AutoMapper.AssemblyInfo.cs
+C:\Projects\common\src\Airslip.Common.Services.AutoMapper\obj\Debug\net6.0\Airslip.Common.Services.AutoMapper.csproj.CoreCompileInputs.cache
+C:\Projects\common\src\Airslip.Common.Services.AutoMapper\obj\Debug\net6.0\Airslip.Common.Services.AutoMapper.dll
+C:\Projects\common\src\Airslip.Common.Services.AutoMapper\obj\Debug\net6.0\refint\Airslip.Common.Services.AutoMapper.dll
+C:\Projects\common\src\Airslip.Common.Services.AutoMapper\obj\Debug\net6.0\Airslip.Common.Services.AutoMapper.pdb
+C:\Projects\common\src\Airslip.Common.Services.AutoMapper\obj\Debug\net6.0\ref\Airslip.Common.Services.AutoMapper.dll

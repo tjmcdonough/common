@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+	
+	<Import Project="..\common.props" />
+
+	<PropertyGroup>
+		<PackageId>Airslip.Common.Services.Handoff</PackageId>
+		<Company>Airslip</Company>
+		<Authors>Airslip</Authors>
+		<PackageProjectUrl>https://github.com/airslip-ltd/common</PackageProjectUrl>
+		<RepositoryUrl>https://github.com/airslip-ltd/common</RepositoryUrl>
+		<PackageLicenseExpression>MIT</PackageLicenseExpression>
+		<PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+	</PropertyGroup>
+
+	<ItemGroup>
+	  <PackageReference Include="Airslip.Common.Types" Version="6.2.18" />
+	  <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="6.0.0" />
+	  <PackageReference Include="Serilog" Version="2.10.0" />
+	</ItemGroup>
+
+</Project>

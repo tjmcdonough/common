@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "KTCi1H2i8jZ9bDlsqzzAXvyCATInLrxgyZ/xVi45hZNFr74vo7giKqmuWPvbcxzEwWYke/qUAWze2ysNah5/Yw==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\common\\src\\Airslip.Common.AppIdentifiers\\Airslip.Common.AppIdentifiers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TomMcDonough\\.nuget\\packages\\airslip.common.types\\6.2.18\\airslip.common.types.6.2.18.nupkg.sha512",
+    "C:\\Users\\TomMcDonough\\.nuget\\packages\\jetbrains.annotations\\2021.2.0\\jetbrains.annotations.2021.2.0.nupkg.sha512",
+    "C:\\Users\\TomMcDonough\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\TomMcDonough\\.nuget\\packages\\microsoft.extensions.configuration.binder\\6.0.0\\microsoft.extensions.configuration.binder.6.0.0.nupkg.sha512",
+    "C:\\Users\\TomMcDonough\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\TomMcDonough\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\TomMcDonough\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\6.0.0\\microsoft.extensions.options.configurationextensions.6.0.0.nupkg.sha512",
+    "C:\\Users\\TomMcDonough\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\TomMcDonough\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\TomMcDonough\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

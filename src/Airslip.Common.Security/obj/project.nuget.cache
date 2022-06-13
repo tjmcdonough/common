@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Rk7pVGUjdymoRtTXP6K4Dn9zm/XR2a6qxy9DiCLlO0ssB1wDColgNQzVB8/4hrxiW5a7Z4dT3hZs3ORZmnbE6A==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\common\\src\\Airslip.Common.Security\\Airslip.Common.Security.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TomMcDonough\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\TomMcDonough\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+C:\Projects\common\src\Airslip.Common.Repository\bin\Debug\net6.0\Airslip.Common.Repository.deps.json
+C:\Projects\common\src\Airslip.Common.Repository\bin\Debug\net6.0\Airslip.Common.Repository.dll
+C:\Projects\common\src\Airslip.Common.Repository\bin\Debug\net6.0\Airslip.Common.Repository.pdb
+C:\Projects\common\src\Airslip.Common.Repository\obj\Debug\net6.0\Airslip.Common.Repository.csproj.AssemblyReference.cache
+C:\Projects\common\src\Airslip.Common.Repository\obj\Debug\net6.0\Airslip.Common.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\common\src\Airslip.Common.Repository\obj\Debug\net6.0\Airslip.Common.Repository.AssemblyInfoInputs.cache
+C:\Projects\common\src\Airslip.Common.Repository\obj\Debug\net6.0\Airslip.Common.Repository.AssemblyInfo.cs
+C:\Projects\common\src\Airslip.Common.Repository\obj\Debug\net6.0\Airslip.Common.Repository.csproj.CoreCompileInputs.cache
+C:\Projects\common\src\Airslip.Common.Repository\obj\Debug\net6.0\Airslip.Common.Repository.dll
+C:\Projects\common\src\Airslip.Common.Repository\obj\Debug\net6.0\refint\Airslip.Common.Repository.dll
+C:\Projects\common\src\Airslip.Common.Repository\obj\Debug\net6.0\Airslip.Common.Repository.pdb
+C:\Projects\common\src\Airslip.Common.Repository\obj\Debug\net6.0\ref\Airslip.Common.Repository.dll

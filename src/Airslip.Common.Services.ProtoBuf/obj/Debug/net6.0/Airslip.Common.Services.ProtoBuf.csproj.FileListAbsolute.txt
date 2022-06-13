@@ -1,0 +1,12 @@
+C:\Projects\common\src\Airslip.Common.Services.ProtoBuf\bin\Debug\net6.0\Airslip.Common.Services.ProtoBuf.deps.json
+C:\Projects\common\src\Airslip.Common.Services.ProtoBuf\bin\Debug\net6.0\Airslip.Common.Services.ProtoBuf.dll
+C:\Projects\common\src\Airslip.Common.Services.ProtoBuf\bin\Debug\net6.0\Airslip.Common.Services.ProtoBuf.pdb
+C:\Projects\common\src\Airslip.Common.Services.ProtoBuf\obj\Debug\net6.0\Airslip.Common.Services.ProtoBuf.csproj.AssemblyReference.cache
+C:\Projects\common\src\Airslip.Common.Services.ProtoBuf\obj\Debug\net6.0\Airslip.Common.Services.ProtoBuf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\common\src\Airslip.Common.Services.ProtoBuf\obj\Debug\net6.0\Airslip.Common.Services.ProtoBuf.AssemblyInfoInputs.cache
+C:\Projects\common\src\Airslip.Common.Services.ProtoBuf\obj\Debug\net6.0\Airslip.Common.Services.ProtoBuf.AssemblyInfo.cs
+C:\Projects\common\src\Airslip.Common.Services.ProtoBuf\obj\Debug\net6.0\Airslip.Common.Services.ProtoBuf.csproj.CoreCompileInputs.cache
+C:\Projects\common\src\Airslip.Common.Services.ProtoBuf\obj\Debug\net6.0\Airslip.Common.Services.ProtoBuf.dll
+C:\Projects\common\src\Airslip.Common.Services.ProtoBuf\obj\Debug\net6.0\refint\Airslip.Common.Services.ProtoBuf.dll
+C:\Projects\common\src\Airslip.Common.Services.ProtoBuf\obj\Debug\net6.0\Airslip.Common.Services.ProtoBuf.pdb
+C:\Projects\common\src\Airslip.Common.Services.ProtoBuf\obj\Debug\net6.0\ref\Airslip.Common.Services.ProtoBuf.dll

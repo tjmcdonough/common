@@ -1,0 +1,59 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Airslip.Common.Repository.Types/1.0.0": {
+        "dependencies": {
+          "Airslip.Common.Types": "6.2.18"
+        },
+        "runtime": {
+          "Airslip.Common.Repository.Types.dll": {}
+        }
+      },
+      "Airslip.Common.Types/6.2.18": {
+        "dependencies": {
+          "JetBrains.Annotations": "2021.2.0"
+        },
+        "runtime": {
+          "lib/net6.0/Airslip.Common.Types.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "JetBrains.Annotations/2021.2.0": {
+        "runtime": {
+          "lib/netstandard2.0/JetBrains.Annotations.dll": {
+            "assemblyVersion": "2021.2.0.0",
+            "fileVersion": "2021.2.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Airslip.Common.Repository.Types/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Airslip.Common.Types/6.2.18": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-iLk9CUCs2JJb5uP4WA/Yua6YwEX8aFmr2/7LZK/NHu55zSBrcm6yAl/CjBqAnvs8LiA0VEpeoMWOx9+rSTnDtQ==",
+      "path": "airslip.common.types/6.2.18",
+      "hashPath": "airslip.common.types.6.2.18.nupkg.sha512"
+    },
+    "JetBrains.Annotations/2021.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kKSyoVfndMriKHLfYGmr0uzQuI4jcc3TKGyww7buJFCYeHb/X0kodYBPL7n9454q7v6ASiRmDgpPGaDGerg/Hg==",
+      "path": "jetbrains.annotations/2021.2.0",
+      "hashPath": "jetbrains.annotations.2021.2.0.nupkg.sha512"
+    }
+  }
+}

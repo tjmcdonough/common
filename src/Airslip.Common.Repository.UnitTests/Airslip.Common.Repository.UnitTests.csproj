@@ -1,0 +1,28 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+	  <Nullable>enable</Nullable>
+	</PropertyGroup>
+
+	<Import Project="..\test.common.props" />
+
+	<ItemGroup>
+		<PackageReference Include="coverlet.collector" Version="3.1.0">
+			<PrivateAssets>all</PrivateAssets>
+			<IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+		</PackageReference>
+		<PackageReference Include="Microsoft.Azure.Functions.Worker" Version="1.6.0" />
+		<PackageReference Include="Microsoft.Azure.Functions.Worker.Extensions.Http" Version="3.0.13" />
+		<PackageReference Include="Moq" Version="4.16.1" />
+		<PackageReference Include="FluentAssertions" Version="6.3.0" />
+		<PackageReference Include="Microsoft.NET.Test.Sdk" Version="16.11.0" />
+		<PackageReference Include="xunit" Version="2.4.1" />
+		<PackageReference Include="xunit.runner.visualstudio" Version="2.4.3" />
+	</ItemGroup>
+
+	<ItemGroup>
+      <ProjectReference Include="..\Airslip.Common.Repository\Airslip.Common.Repository.csproj" />
+      <ProjectReference Include="..\Airslip.Common.Services.FluentValidation\Airslip.Common.Services.FluentValidation.csproj" />
+    </ItemGroup>
+
+</Project>

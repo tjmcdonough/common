@@ -1,0 +1,14 @@
+C:\Projects\common\src\Airslip.Common.Services.CosmosDb\bin\Debug\net6.0\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Projects\common\src\Airslip.Common.Services.CosmosDb\bin\Debug\net6.0\Cosmos.CRTCompat.dll
+C:\Projects\common\src\Airslip.Common.Services.CosmosDb\bin\Debug\net6.0\Airslip.Common.Services.CosmosDb.deps.json
+C:\Projects\common\src\Airslip.Common.Services.CosmosDb\bin\Debug\net6.0\Airslip.Common.Services.CosmosDb.dll
+C:\Projects\common\src\Airslip.Common.Services.CosmosDb\bin\Debug\net6.0\Airslip.Common.Services.CosmosDb.pdb
+C:\Projects\common\src\Airslip.Common.Services.CosmosDb\obj\Debug\net6.0\Airslip.Common.Services.CosmosDb.csproj.AssemblyReference.cache
+C:\Projects\common\src\Airslip.Common.Services.CosmosDb\obj\Debug\net6.0\Airslip.Common.Services.CosmosDb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\common\src\Airslip.Common.Services.CosmosDb\obj\Debug\net6.0\Airslip.Common.Services.CosmosDb.AssemblyInfoInputs.cache
+C:\Projects\common\src\Airslip.Common.Services.CosmosDb\obj\Debug\net6.0\Airslip.Common.Services.CosmosDb.AssemblyInfo.cs
+C:\Projects\common\src\Airslip.Common.Services.CosmosDb\obj\Debug\net6.0\Airslip.Common.Services.CosmosDb.csproj.CoreCompileInputs.cache
+C:\Projects\common\src\Airslip.Common.Services.CosmosDb\obj\Debug\net6.0\Airslip.Common.Services.CosmosDb.dll
+C:\Projects\common\src\Airslip.Common.Services.CosmosDb\obj\Debug\net6.0\refint\Airslip.Common.Services.CosmosDb.dll
+C:\Projects\common\src\Airslip.Common.Services.CosmosDb\obj\Debug\net6.0\Airslip.Common.Services.CosmosDb.pdb
+C:\Projects\common\src\Airslip.Common.Services.CosmosDb\obj\Debug\net6.0\ref\Airslip.Common.Services.CosmosDb.dll

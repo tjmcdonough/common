@@ -1,0 +1,12 @@
+C:\Projects\common\src\Airslip.Common.Auth.Hosted\bin\Debug\net6.0\Airslip.Common.Auth.Hosted.deps.json
+C:\Projects\common\src\Airslip.Common.Auth.Hosted\bin\Debug\net6.0\Airslip.Common.Auth.Hosted.dll
+C:\Projects\common\src\Airslip.Common.Auth.Hosted\bin\Debug\net6.0\Airslip.Common.Auth.Hosted.pdb
+C:\Projects\common\src\Airslip.Common.Auth.Hosted\obj\Debug\net6.0\Airslip.Common.Auth.Hosted.csproj.AssemblyReference.cache
+C:\Projects\common\src\Airslip.Common.Auth.Hosted\obj\Debug\net6.0\Airslip.Common.Auth.Hosted.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\common\src\Airslip.Common.Auth.Hosted\obj\Debug\net6.0\Airslip.Common.Auth.Hosted.AssemblyInfoInputs.cache
+C:\Projects\common\src\Airslip.Common.Auth.Hosted\obj\Debug\net6.0\Airslip.Common.Auth.Hosted.AssemblyInfo.cs
+C:\Projects\common\src\Airslip.Common.Auth.Hosted\obj\Debug\net6.0\Airslip.Common.Auth.Hosted.csproj.CoreCompileInputs.cache
+C:\Projects\common\src\Airslip.Common.Auth.Hosted\obj\Debug\net6.0\Airslip.Common.Auth.Hosted.dll
+C:\Projects\common\src\Airslip.Common.Auth.Hosted\obj\Debug\net6.0\refint\Airslip.Common.Auth.Hosted.dll
+C:\Projects\common\src\Airslip.Common.Auth.Hosted\obj\Debug\net6.0\Airslip.Common.Auth.Hosted.pdb
+C:\Projects\common\src\Airslip.Common.Auth.Hosted\obj\Debug\net6.0\ref\Airslip.Common.Auth.Hosted.dll

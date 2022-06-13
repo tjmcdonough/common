@@ -1,0 +1,202 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Projects\\common\\src\\Airslip.Common.Services.MongoDb.Tests\\Airslip.Common.Services.MongoDb.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Projects\\common\\src\\Airslip.Common.Services.MongoDb.Tests\\Airslip.Common.Services.MongoDb.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\common\\src\\Airslip.Common.Services.MongoDb.Tests\\Airslip.Common.Services.MongoDb.Tests.csproj",
+        "projectName": "Airslip.Common.Services.MongoDb.Tests",
+        "projectPath": "C:\\Projects\\common\\src\\Airslip.Common.Services.MongoDb.Tests\\Airslip.Common.Services.MongoDb.Tests.csproj",
+        "packagesPath": "C:\\Users\\TomMcDonough\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\common\\src\\Airslip.Common.Services.MongoDb.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\TomMcDonough\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.pkg.github.com/airslip-ltd/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Projects\\common\\src\\Airslip.Common.Services.MongoDb\\Airslip.Common.Services.MongoDb.csproj": {
+                "projectPath": "C:\\Projects\\common\\src\\Airslip.Common.Services.MongoDb\\Airslip.Common.Services.MongoDb.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Airslip.Common.Testing": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[6.3.0, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.EnvironmentVariables": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.FileExtensions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.0.0, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projects\\common\\src\\Airslip.Common.Services.MongoDb\\Airslip.Common.Services.MongoDb.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\common\\src\\Airslip.Common.Services.MongoDb\\Airslip.Common.Services.MongoDb.csproj",
+        "projectName": "Airslip.Common.Services.MongoDb",
+        "projectPath": "C:\\Projects\\common\\src\\Airslip.Common.Services.MongoDb\\Airslip.Common.Services.MongoDb.csproj",
+        "packagesPath": "C:\\Users\\TomMcDonough\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\common\\src\\Airslip.Common.Services.MongoDb\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\TomMcDonough\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.pkg.github.com/airslip-ltd/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Airslip.Common.Auth": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "Airslip.Common.Monitoring": {
+              "target": "Package",
+              "version": "[6.1.1, )"
+            },
+            "Airslip.Common.Repository.Types": {
+              "target": "Package",
+              "version": "[6.1.8, )"
+            },
+            "Airslip.Common.Types": {
+              "target": "Package",
+              "version": "[6.2.18, )"
+            },
+            "Microsoft.Extensions.Options.ConfigurationExtensions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.14.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

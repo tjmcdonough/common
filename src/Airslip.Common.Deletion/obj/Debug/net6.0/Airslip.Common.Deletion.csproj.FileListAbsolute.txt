@@ -1,0 +1,12 @@
+C:\Projects\common\src\Airslip.Common.Deletion\bin\Debug\net6.0\Airslip.Common.Deletion.deps.json
+C:\Projects\common\src\Airslip.Common.Deletion\bin\Debug\net6.0\Airslip.Common.Deletion.dll
+C:\Projects\common\src\Airslip.Common.Deletion\bin\Debug\net6.0\Airslip.Common.Deletion.pdb
+C:\Projects\common\src\Airslip.Common.Deletion\obj\Debug\net6.0\Airslip.Common.Deletion.csproj.AssemblyReference.cache
+C:\Projects\common\src\Airslip.Common.Deletion\obj\Debug\net6.0\Airslip.Common.Deletion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\common\src\Airslip.Common.Deletion\obj\Debug\net6.0\Airslip.Common.Deletion.AssemblyInfoInputs.cache
+C:\Projects\common\src\Airslip.Common.Deletion\obj\Debug\net6.0\Airslip.Common.Deletion.AssemblyInfo.cs
+C:\Projects\common\src\Airslip.Common.Deletion\obj\Debug\net6.0\Airslip.Common.Deletion.csproj.CoreCompileInputs.cache
+C:\Projects\common\src\Airslip.Common.Deletion\obj\Debug\net6.0\Airslip.Common.Deletion.dll
+C:\Projects\common\src\Airslip.Common.Deletion\obj\Debug\net6.0\refint\Airslip.Common.Deletion.dll
+C:\Projects\common\src\Airslip.Common.Deletion\obj\Debug\net6.0\Airslip.Common.Deletion.pdb
+C:\Projects\common\src\Airslip.Common.Deletion\obj\Debug\net6.0\ref\Airslip.Common.Deletion.dll

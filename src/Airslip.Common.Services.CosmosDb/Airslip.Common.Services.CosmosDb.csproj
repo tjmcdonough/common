@@ -1,0 +1,29 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+	<Import Project="..\common.props" />
+
+	<PropertyGroup>
+		<PackageId>Airslip.Common.Services.CosmosDb</PackageId>
+		<Company>Airslip</Company>
+		<Authors>Airslip</Authors>
+		<PackageProjectUrl>https://github.com/airslip-ltd/common</PackageProjectUrl>
+		<RepositoryUrl>https://github.com/airslip-ltd/common</RepositoryUrl>
+		<PackageLicenseExpression>MIT</PackageLicenseExpression>
+		<PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="Microsoft.Extensions.Options.ConfigurationExtensions" Version="6.0.0" />
+		<PackageReference Include="Pluralize.NET.Core" Version="1.0.0" />
+		<PackageReference Include="Microsoft.Azure.Cosmos" Version="3.23.0" />
+		<PackageReference Include="Serilog" Version="2.10.0" />
+	</ItemGroup>
+	
+	<ItemGroup>
+		<PackageReference Include="Airslip.Common.Auth" Version="6.0.4" />
+		<PackageReference Include="Airslip.Common.Repository.Types" Version="6.1.8" />
+		<PackageReference Include="Airslip.Common.Types" Version="6.2.18" />
+		<PackageReference Include="Airslip.Common.Utilities" Version="6.1.4" />
+	</ItemGroup>
+
+</Project>

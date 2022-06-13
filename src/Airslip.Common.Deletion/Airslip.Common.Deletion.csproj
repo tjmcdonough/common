@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+	<Import Project="..\common.props" />
+
+	<PropertyGroup>
+		<PackageId>Airslip.Common.Deletion</PackageId>
+		<Company>Airslip</Company>
+		<Authors>Airslip</Authors>
+		<PackageProjectUrl>https://github.com/airslip-ltd/common</PackageProjectUrl>
+		<RepositoryUrl>https://github.com/airslip-ltd/common</RepositoryUrl>
+		<PackageLicenseExpression>MIT</PackageLicenseExpression>
+		<PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+	</PropertyGroup>
+	
+	<ItemGroup>
+		<PackageReference Include="Airslip.Common.Repository.Types" Version="6.1.8" />
+		<PackageReference Include="Airslip.Common.Services.FluentValidation" Version="6.0.1" />
+		<PackageReference Include="Airslip.Common.Types" Version="6.2.18" />
+	</ItemGroup>
+	
+</Project>

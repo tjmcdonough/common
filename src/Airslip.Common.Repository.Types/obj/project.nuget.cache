@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "VVHcXrLwBKa3kUDUrzesoMfxyiFrnW1+m1HiCw/cEAnTrCss7sOtcsUez1ZkM/dQw/YWWZgjI+xdt1XZbPjVxQ==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\common\\src\\Airslip.Common.Repository.Types\\Airslip.Common.Repository.Types.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TomMcDonough\\.nuget\\packages\\airslip.common.types\\6.2.18\\airslip.common.types.6.2.18.nupkg.sha512",
+    "C:\\Users\\TomMcDonough\\.nuget\\packages\\jetbrains.annotations\\2021.2.0\\jetbrains.annotations.2021.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}

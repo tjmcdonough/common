@@ -1,0 +1,12 @@
+C:\Projects\common\src\Airslip.Integrations.Commerce.Types\bin\Debug\net6.0\Airslip.Integrations.Commerce.Types.deps.json
+C:\Projects\common\src\Airslip.Integrations.Commerce.Types\bin\Debug\net6.0\Airslip.Integrations.Commerce.Types.dll
+C:\Projects\common\src\Airslip.Integrations.Commerce.Types\bin\Debug\net6.0\Airslip.Integrations.Commerce.Types.pdb
+C:\Projects\common\src\Airslip.Integrations.Commerce.Types\obj\Debug\net6.0\Airslip.Integrations.Commerce.Types.csproj.AssemblyReference.cache
+C:\Projects\common\src\Airslip.Integrations.Commerce.Types\obj\Debug\net6.0\Airslip.Integrations.Commerce.Types.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\common\src\Airslip.Integrations.Commerce.Types\obj\Debug\net6.0\Airslip.Integrations.Commerce.Types.AssemblyInfoInputs.cache
+C:\Projects\common\src\Airslip.Integrations.Commerce.Types\obj\Debug\net6.0\Airslip.Integrations.Commerce.Types.AssemblyInfo.cs
+C:\Projects\common\src\Airslip.Integrations.Commerce.Types\obj\Debug\net6.0\Airslip.Integrations.Commerce.Types.csproj.CoreCompileInputs.cache
+C:\Projects\common\src\Airslip.Integrations.Commerce.Types\obj\Debug\net6.0\Airslip.Integrations.Commerce.Types.dll
+C:\Projects\common\src\Airslip.Integrations.Commerce.Types\obj\Debug\net6.0\refint\Airslip.Integrations.Commerce.Types.dll
+C:\Projects\common\src\Airslip.Integrations.Commerce.Types\obj\Debug\net6.0\Airslip.Integrations.Commerce.Types.pdb
+C:\Projects\common\src\Airslip.Integrations.Commerce.Types\obj\Debug\net6.0\ref\Airslip.Integrations.Commerce.Types.dll

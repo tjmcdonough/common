@@ -1,0 +1,12 @@
+C:\Projects\common\src\Airslip.Common.Services.MongoDb\bin\Debug\net6.0\Airslip.Common.Services.MongoDb.deps.json
+C:\Projects\common\src\Airslip.Common.Services.MongoDb\bin\Debug\net6.0\Airslip.Common.Services.MongoDb.dll
+C:\Projects\common\src\Airslip.Common.Services.MongoDb\bin\Debug\net6.0\Airslip.Common.Services.MongoDb.pdb
+C:\Projects\common\src\Airslip.Common.Services.MongoDb\obj\Debug\net6.0\Airslip.Common.Services.MongoDb.csproj.AssemblyReference.cache
+C:\Projects\common\src\Airslip.Common.Services.MongoDb\obj\Debug\net6.0\Airslip.Common.Services.MongoDb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\common\src\Airslip.Common.Services.MongoDb\obj\Debug\net6.0\Airslip.Common.Services.MongoDb.AssemblyInfoInputs.cache
+C:\Projects\common\src\Airslip.Common.Services.MongoDb\obj\Debug\net6.0\Airslip.Common.Services.MongoDb.AssemblyInfo.cs
+C:\Projects\common\src\Airslip.Common.Services.MongoDb\obj\Debug\net6.0\Airslip.Common.Services.MongoDb.csproj.CoreCompileInputs.cache
+C:\Projects\common\src\Airslip.Common.Services.MongoDb\obj\Debug\net6.0\Airslip.Common.Services.MongoDb.dll
+C:\Projects\common\src\Airslip.Common.Services.MongoDb\obj\Debug\net6.0\refint\Airslip.Common.Services.MongoDb.dll
+C:\Projects\common\src\Airslip.Common.Services.MongoDb\obj\Debug\net6.0\Airslip.Common.Services.MongoDb.pdb
+C:\Projects\common\src\Airslip.Common.Services.MongoDb\obj\Debug\net6.0\ref\Airslip.Common.Services.MongoDb.dll
